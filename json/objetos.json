@@ -1,0 +1,39 @@
+{
+    "personas": [
+    {
+      "id": 1,
+      "nombres": "Juan Camilo",
+      "apellidos": "Cardona Calderon",
+      "edad": 22,
+      "estatura": 1.87,
+      "estCivil": "s",
+      "discapacidades": false
+    },
+    {
+      "nombres": "Mariela Calderon",
+      "apellidos": "Calderón Tobón",
+      "edad": 50,
+      "estatura": 1.9,
+      "estCivil": "c",
+      "discapacidades": false,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombres": "Cristian Daniel",
+      "apellidos": "Morales Villada",
+      "edad": 23,
+      "estatura": 1.63,
+      "estCivil": "c",
+      "discapacidades": true
+    },
+    {
+      "id": 4,
+      "nombres": "Luis Arenas",
+      "apellidos": "Valencia Osorio",
+      "edad": 40,
+      "estatura": 1.95,
+      "estCivil": "d",
+      "discapacidades": true
+    }]
+}
